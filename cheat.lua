@@ -435,7 +435,7 @@ StarterGui:SetCore("SendNotification", {
 
 StarterGui:SetCore("SendNotification", {
     Title = "Credits",
-    Text = "FGFS captain!",
+    Text = "karashiga captain!",
     Icon = content,
     Duration = 5
 })
@@ -625,7 +625,7 @@ end)
 
 local TextButton1 = Instance.new("TextButton") 
 TextButton1.Parent = MainFrame
-TextButton1.Name = "nameless admin"
+TextButton1.Name = "karashiga admin"
 TextButton1.BackgroundColor3 = Color3.fromRGB(0,0,0)
 TextButton1.BackgroundTransparency = 0
 TextButton1.BorderSizePixel = 1
@@ -634,7 +634,7 @@ TextButton1.Position = UDim2.new(0.5,0,1)
 TextButton1.Size = UDim2.new(0.08,0,0.1)
 TextButton1.Font = Enum.Font.Legacy
 TextButton1.TextColor3 = Color3.fromRGB(242,243,243)
-TextButton1.Text = "NAMELESS"
+TextButton1.Text = "KARASHIGA"
 TextButton1.TextSize = 18
 TextButton1.TextScaled = true
 TextButton1.TextWrapped = true
